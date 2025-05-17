@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__
+
+# Ignore sensitive files (if you were storing API keys locally)
+.env
+.config
+
+# Ignore large files or directories that are not essential to track
+# data # Uncomment this line if your data file was very large or sensitive
+
+# Ignore specific ColabJupyter files that might be generated
+.ipynb_checkpoints
